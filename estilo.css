@@ -1,0 +1,35 @@
+body {
+    background-color: #182E30
+    ;
+}
+#div{
+    padding-top: 2px;
+    padding-left: 30px;
+    background-color: #0C1718;
+    }
+#h1-del-principio {
+    color: #ddd;
+    padding-left: 30px;
+}
+#lista {
+    background-color: #315C5F;
+    color: #ddd;
+padding-left: 70px;
+}
+#mi {
+    color: #ddd;
+    padding-left: 100px;
+}
+#junior {
+    color: #ddd;
+    padding-left: 170px;
+}
+#parrafo {
+    color: #ddd;
+}
+#fotomia {
+    padding-left: 50px;
+}
+#parrafito {
+    color: #ddd;
+}
